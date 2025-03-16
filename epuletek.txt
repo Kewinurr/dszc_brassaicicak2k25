@@ -1,0 +1,24 @@
+epulet_nev	epulet_tipus	epulet_ev	epulet_hasznos
+ÁLomi központi klinika	Klinika	2023	15000
+ÁLomi általanos iskola	Iskola	2012	5000
+Csendes utca 22	Ház	1999	980
+ÁLomi rendőr-főkapitányság	Rendőrség	2015	5000
+Fő sugárút 1	Lakóház	2002	900
+Fő sugárút 5	Lakóház	2002	950
+Csendes utca 25	Lakóház	2001	500
+ÁLomi középiskola	Középiskola	2001 5500
+ÁLomi vasútállomás	Vasútállomás	2008	9000
+ÁLomi központi buszpályaudvar	Buszpályaudvar	2007	2500
+Hadnagy utca 15	Lakóház	2002	200
+Hadnagy utca 14	Lakóház	2002	200
+Hadnagy utca 1	Lakóház	2000	150
+ÁLomi gyáripar	Gyár	2000	4000
+Főtér 52	Lakóház	2025	600
+Főtér 53	Lakóház	2025	700
+Főtér 51	Lakóház	2024	650
+ÁLomi taxitelep	Taxitelep	2020	2500
+ÁLomi kávézó	Kávézó	2021	900
+ÁLomi tűzoltóság	Tűzoltóság	2015	2200
+ÁLomi mentőállomás	Mentőállomás	2020	2200
+
+
