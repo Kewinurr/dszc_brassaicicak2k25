@@ -1,4 +1,9 @@
-Milyen szolgáltatások érhetők el egy adott épületben? Az épület azonosítóját a lekérdezés paraméterként lehessen megadni.
+1.5.A)
 	SELECT szolgaltatasok.szolgaltat_nev
 	FROM epuletek INNER JOIN szolgaltatasok ON epuletek.epulet_azon = szolgaltatasok.szolgaltat_epazon
 	WHERE (((epuletek.[epulet_azon])=[PARAMETERS epulet_azon Short]));
+1.5.B.)
+	SELECT projektek.projekt_nev, SUM(projektek.projekt_koltseg) AS OsszesKoltseg
+	FROM epuletek, projektek
+	WHERE epuletek.epulet_tipus = 'Iskola' AND epuletek.epulet_azon = projektek.projekt_epazon
+	GROUP BY projektek.projekt_nev;
