@@ -1,0 +1,30 @@
+szolgaltat_nev  szolgaltat_tipus  szolgaltat_epazon
+Állami Korház	Egészségügy	
+Autóbuszállomás	Közlekedés	
+Vasútállomás	Közlekedés	
+Nemzeti Dohánybolt	Szaküzlet	
+CBA	Vegyesbolt	
+Lidl	Szupermarket	
+KFC	Gyorsétterem	
+Szabó Ervin Könyvtár	Könyvtár	
+Panoráma Étterem	Étterem	
+Tófürdő	Fürdő	
+Látóképi Csárda	Étterem	
+Müller	Drogéria	
+Alza	Online Áruház	
+Rossmann	Drogéria	
+Decathlon	Sportbolt	
+Cinema City	Mozi	
+DM	Drogéria	
+Kika	Bútorbolt	
+MediaMarkt	Elektronikai bolt	
+H&M	Divatbolt	
+Ikea	Bútorbolt	
+Spar	Szupermarket	
+Napsugár Általános Iskola	Iskola	
+OPT Bank	Bank	
+Mókuska Óvoda	Óvoda	
+Pannon Egyetem	Egyetem	
+Szent László Templom	Vallási Központ	
+Kék Szivárvány Rendőrkapitányság	Közszolgáltató	
+Vörös Lángok Tűzoltó Parancsnokság	Közszolgáltató	
