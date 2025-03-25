@@ -1,0 +1,4 @@
+Milyen szolgáltatások érhetők el egy adott épületben? Az épület azonosítóját a lekérdezés paraméterként lehessen megadni.
+	SELECT szolgaltatasok.szolgaltat_nev
+	FROM epuletek INNER JOIN szolgaltatasok ON epuletek.epulet_azon = szolgaltatasok.szolgaltat_epazon
+	WHERE (((epuletek.[epulet_azon])=[PARAMETERS epulet_azon Short]));
