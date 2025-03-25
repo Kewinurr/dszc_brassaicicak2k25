@@ -8,7 +8,9 @@
 	WHERE epuletek.epulet_tipus = 'Iskola' AND epuletek.epulet_azon = projektek.projekt_epazon
 	GROUP BY projektek.projekt_nev;
 1.5.C)
-
+	SELECT szolgaltatasok.szolgaltat_tipus, Count(epuletek.epulet_azon) AS CountOfepulet_azon
+	FROM epuletek INNER JOIN szolgaltatasok ON epuletek.epulet_azon = szolgaltatasok.szolgaltat_epazon
+	GROUP BY szolgaltatasok.szolgaltat_tipus;
 1.5.D)
 
 1.5.E)
