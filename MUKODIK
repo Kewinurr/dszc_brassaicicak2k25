@@ -1,1 +1,0 @@
-IIf(Year(Date())-[lakos_szul]<=6;[lakos_foglal]="nincs";IIf(Year(Date())-[lakos_szul]>6 And Year(Date())-[lakos_szul]<=18;[lakos_foglal]="tanuló";Igaz))
