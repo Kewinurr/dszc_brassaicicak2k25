@@ -1,0 +1,32 @@
+"szolgaltat_azon";"szolgaltat_nev";"szolgaltat_tipus";"szolgaltat_epazon"
+1;"Állami Korház";"Egészségügy";53
+2;"Autóbuszállomás";"Közlekedés";25
+3;"Vasútállomás";"Közlekedés";26
+4;"Nemzeti Dohánybolt";"Szaküzlet";27
+5;"CBA";"Vegyesbolt";28
+6;"Lidl";"Szupermarket";29
+7;"KFC";"Gyorsétterem";30
+8;"Szabó Ervin Könyvtár";"Könyvtár";31
+9;"Panoráma Étterem";"Étterem";32
+10;"Tófürdõ";"Fürdõ";33
+11;"Látóképi Csárda";"Étterem";34
+12;"Müller";"Drogéria";35
+13;"Alza";"Online Áruház";36
+14;"Rossmann";"Drogéria";37
+15;"Decathlon";"Sportbolt";38
+16;"Cinema City";"Mozi";39
+17;"DM";"Drogéria";40
+18;"Kika";"Bútorbolt";41
+19;"MediaMarkt";"Elektronikai bolt";42
+20;"H&M";"Divatbolt";43
+21;"Ikea";"Bútorbolt";44
+22;"Spar";"Szupermarket";45
+23;"Napsugár Általános Iskola";"Iskola";46
+24;"OPT Bank";"Bank";47
+25;"Mókuska Óvoda";"Óvoda";48
+26;"Pannon Egyetem";"Egyetem";49
+27;"Szent László Templom";"Vallási Központ";50
+28;"Kék Szivárvány Rendõrkapitányság";"Közszolgáltató";51
+29;"Vörös Lángok Tûzoltó Parancsnokság";"Közszolgáltató";52
+31;"Ikea";"Étterem";44
+32;"Ikea";"Élelmiszerbolt";44
